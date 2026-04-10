@@ -1,70 +1,87 @@
-# 👋 Hi, I'm Hela Saoudi 
+# Hi, I'm Hela Saoudi 
 
-🎓 Master's student |🤖 AI Developer  
----
-
-## 🚀 About Me
-
-I'm a passionate developer who loves building impactful solutions using **AI and modern web technologies**.  
-I enjoy turning ideas into real applications that solve real-world problems.
-
-- 🔭 Currently working on: AI-powered platforms & web applications  
-- 🌱 Learning: Advanced AI, Deep Learning & Cloud  
-- 🎯 Goal: Contribute to innovative tech that changes lives  
-- 💡 Interests: Artificial Intelligence, Startups, EdTech, Agriculture AI  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+in+progress;Full+Stack+Developer;Tech+Enthusiast;Future+Innovator&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### 💻 Programming & Frameworks
-- JavaScript | TypeScript  
-- React
-- FastAPI
-- Python (ML / DL)
-
-### 🤖 AI & Data
-- Machine Learning  
-- Deep Learning  
-- Data Preprocessing  
-- Neural Networks  
-
-### ⚙️ Tools & Technologies
-- Git & GitHub  
-- Docker (basic)  
-- VS Code  
-- Postman  
+💻 Full-Stack Developer passionate about building real-world solutions  
+🤖 Focused on Artificial Intelligence & Deep Learning  
+🌍 Based in Tunisia  
+🚀 Dream: Build impactful tech that changes lives  
 
 ---
 
-## 📌 Featured Projects
+## ⚡ Tech Stack
 
-### 🤖 Machine Failure Prediction System
-- Built a neural network model to predict machine failures  
-- Developed a dashboard using Flask to visualize predictions  
-- Highlighted critical machines dynamically  
+### 👩‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### 🌞 Solar Village Project
-- Worked on sustainable solutions using solar thermal energy  
-- Focused on low-cost innovation for rural areas  
+### 🤖 AI / Data
+![Machine Learning](https://img.shields.io/badge/MachineLearning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Hela's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 📈 Most Used Languages
 
-- 💼 LinkedIn: https://www.linkedin.com/in/hela-saoudi-4a5b59228/
-- 📧 Email: helasaoudi024@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## ✨ Fun Fact
+## 🔥 Contribution Graph
 
-I believe technology + AI can literally change the future  and I'm working to be part of that change 🚀
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Machine Failure Prediction
+AI model + Flask dashboard to detect machine failures  
+
+### 📱 Student Mobile App
+Platform for housing, jobs, and student life  
+
+### 🌞 Solar Innovation Project
+Sustainable tech for rural areas  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 🧩 Fun Fact
+
+⚡ I believe AI + technology can reshape the future — and I'm building toward it.
