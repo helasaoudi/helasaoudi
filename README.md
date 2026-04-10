@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helasaoudi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helasaoudi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helasaoudi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helasaoudi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helasaoudi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helasaoudi&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 </p>
 
 ---
@@ -61,10 +61,10 @@
 
 ---
 
-## 🧩 GitHub Metrics
+## 🧩 Activity Overview
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/helasaoudi" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helasaoudi&theme=tokyonight" />
 </p>
 
 ---
