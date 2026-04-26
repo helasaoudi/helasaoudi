@@ -1,4 +1,4 @@
-# 🌌 Hi, I'm Hela Saoudi (Eva)
+# 🌌 Hi, I'm Hela Saoudi 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+in+progress;Full+Stack+Developer;Tech+Enthusiast;Future+Innovator&center=true&width=500&height=50">
